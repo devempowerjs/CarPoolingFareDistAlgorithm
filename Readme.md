@@ -120,5 +120,8 @@ This ensures each passenger pays for the distance they actually shared and their
 - Corporate or group travel cost splitting
 - Any scenario requiring fair, transparent fare distribution among multiple travelers
 
+ ## Author
+ Mayank Raj (devempowerjs) | Student Innovator • Data Science Enthusiast • Eureka! Junior Asia Finalist (2025) • Building Real-World, Data Driven Projects
+
 ## License
 This project is licensed under the MIT License. Feel free to use, modify and distribute with attribution.
